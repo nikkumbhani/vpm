@@ -1,0 +1,6 @@
+framework module Pods_vpm {
+  umbrella header "Pods-vpm-umbrella.h"
+
+  export *
+  module * { export * }
+}
